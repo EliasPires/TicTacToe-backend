@@ -21,13 +21,13 @@ O objetivo é permitir partidas em tempo real entre dois jogadores, com comunica
 ## 🧱 Estrutura do Projeto
 
 src/main/java/com/seuprojeto/jogodavelha
-├── config # Configurações (CORS, WebSocket)
-├── controller # Endpoints REST
-├── websocket # Comunicação em tempo real (STOMP)
-├── dto # Objetos de transferência de dados (PlayerRequest, MoveDTO, etc.)
-├── entity # Entidades do JPA (Game, Player)
-├── repository # Interfaces Spring Data JPA
-└── service # Regras de negócio
+├── config # Configurações (CORS, WebSocket) \\
+├── controller # Endpoints REST \\
+├── websocket # Comunicação em tempo real (STOMP) \\
+├── dto # Objetos de transferência de dados (PlayerRequest, MoveDTO, etc.) \\
+├── entity # Entidades do JPA (Game, Player) \\
+├── repository # Interfaces Spring Data JPA \\
+└── service # Regras de negócio \\
 
 
 ---
