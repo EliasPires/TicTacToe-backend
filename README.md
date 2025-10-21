@@ -44,6 +44,7 @@ Antes de iniciar, instale:
 ## ▶️ Como executar localmente
 
 ```bash
+
 # Clone o repositório
 git clone https://github.com/seu-usuario/jogo-velha-backend.git
 cd jogo-velha-backend
@@ -52,7 +53,8 @@ cd jogo-velha-backend
 mvn clean install
 
 # Execute o backend
-mvn spring-boot:run´´´
+mvn spring-boot:run
+```
 
 O backend rodará em:
 👉 http://localhost:8080
