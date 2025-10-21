@@ -52,7 +52,7 @@ cd jogo-velha-backend
 mvn clean install
 
 # Execute o backend
-mvn spring-boot:run```
+mvn spring-boot:run´´´
 
 O backend rodará em:
 👉 http://localhost:8080
