@@ -20,7 +20,7 @@ O objetivo é permitir partidas em tempo real entre dois jogadores, com comunica
 
 ## 🧱 Estrutura do Projeto
 
-src/main/java/com/seuprojeto/jogodavelha
+src/main/java/com/seuprojeto/jogodavelha <br>
 ├── config # Configurações (CORS, WebSocket) <br>
 ├── controller # Endpoints REST <br>
 ├── websocket # Comunicação em tempo real (STOMP) <br>
