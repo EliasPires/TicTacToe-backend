@@ -97,8 +97,8 @@ Este projeto está sob a licença MIT — sinta-se livre para usar e modificar.
 
 ## ✨ Autor
 
-Seu Nome
+Elias Pires
 
 Desenvolvedor Java | Spring Boot | React | TypeScript
-  LinkedIn
+  [LinkedIn](https://www.linkedin.com/in/elias-pires-84b56397/)
  · GitHub
