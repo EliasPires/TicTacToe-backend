@@ -99,6 +99,6 @@ Este projeto está sob a licença MIT — sinta-se livre para usar e modificar.
 
 Elias Pires
 
-Desenvolvedor Java | Spring Boot | React | TypeScript
+Desenvolvedor Java | Spring Boot | React | TypeScript <br>
   [LinkedIn](https://www.linkedin.com/in/elias-pires-84b56397/)
  · GitHub
