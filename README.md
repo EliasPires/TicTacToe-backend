@@ -52,7 +52,7 @@ cd jogo-velha-backend
 mvn clean install
 
 # Execute o backend
-mvn spring-boot:run
+mvn spring-boot:run```
 
 O backend rodará em:
 👉 http://localhost:8080
@@ -89,11 +89,11 @@ spring.jpa.hibernate.ddl-auto=update
 
 👉 Repositório Frontend (React + TypeScript)
 
-📜 Licença
+## 📜 Licença
 
 Este projeto está sob a licença MIT — sinta-se livre para usar e modificar.
 
-✨ Autor
+## ✨ Autor
 
 Seu Nome
 
